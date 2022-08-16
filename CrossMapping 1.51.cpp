@@ -1,6 +1,4 @@
-// By xHARDHeMPuS, 11 Aug 20
-// My Tool CrossManager Generator
-// www.xhardhempus.net
+// ~
 
 uint64_t __HASHMAPDATA[] = {
 0xDB5C71C3E9F5C572, 0xD3A58A12C77D9D4B,
